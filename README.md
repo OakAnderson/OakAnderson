@@ -11,9 +11,7 @@ A backend developer, programming enthusiast, and Linux lover.
 
 # My Skills and Stats
 
-[![GitHub Stats](https://github-readme-stats-kappa-ten-97.vercel.app/api?username=oakanderson&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Github Stats Top Lang](https://github-readme-stats-kappa-ten-97.vercel.app/api/top-langs/?username=oakanderson&layout=compact&langs_count=7&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-kappa-ten-97.vercel.app/api?username=oakanderson&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Github Stats Top Lang](https://github-readme-stats-kappa-ten-97.vercel.app/api/top-langs/?username=oakanderson&layout=compact&langs_count=7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies & Tools
