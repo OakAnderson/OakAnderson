@@ -13,8 +13,6 @@ A backend developer, programming enthusiast, and Linux lover.
 
 [![GitHub Stats](https://github-readme-stats-kappa-ten-97.vercel.app/api?username=oakanderson&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oakanderson&theme=nord)](https://git.io/streak-stats)
-
 [![Github Stats Top Lang](https://github-readme-stats-kappa-ten-97.vercel.app/api/top-langs/?username=oakanderson&layout=compact&langs_count=7&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
